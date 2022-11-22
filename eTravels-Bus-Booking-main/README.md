@@ -44,7 +44,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Linkedin](https://www.linkedin.com/divyanshu-mishra-5b64b01b0) - divyanshu8770@gmail.com
+[Linkedin](https://www.linkedin.com/divyanshu-mishra-5b64b01b0) - linkedin.com/divyanshu-mishra-5b64b01b0
 
 Project Link: [https://github.com/Divyanshu8770/eTravels-Bus-Booking.git](https://github.com/Divyanshu8770/eTravels-Bus-Booking.git)
 
