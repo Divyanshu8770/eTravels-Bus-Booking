@@ -7,9 +7,9 @@
 <!--<h3 align="center">Best-README-Template</h3> -->
 
   <p align="center">
-    <a href="https://github.com/shrish-sharma-git/eTravels-Bus-Booking/issues">Report Bug</a>
+    <a href="https://github.com/Divyanshu8770/eTravels-Bus-Booking.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shrish-sharma-git/eTravels-Bus-Booking/issues">Request Feature</a>
+    <a href="hhttps://github.com/Divyanshu8770/eTravels-Bus-Booking.git/issues">Request Feature</a>
   </p>
 </p>
 
@@ -46,17 +46,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Linkedin](https://www.linkedin.com/divyanshu-mishra-5b64b01b0) - divyanshu8770@gmail.com
 
-Project Link: [https://github.com/]()
+Project Link: [https://github.com/Divyanshu8770/eTravels-Bus-Booking.git](https://github.com/Divyanshu8770/eTravels-Bus-Booking.git)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/shrish-sharma-git/eTravels-Bus-Booking.svg?style=for-the-badge
-[contributors-url]: https://github.com/shrish-sharma-git/eTravels-Bus-Booking/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shrish-sharma-git/eTravels-Bus-Booking.svg?style=for-the-badge
-[forks-url]: https://github.com/shrish-sharma-git/eTravels-Bus-Booking/network/members
-[stars-shield]: https://img.shields.io/github/stars/shrish-sharma-git/eTravels-Bus-Booking.svg?style=for-the-badge
-[stars-url]: https://github.com/shrish-sharma-git/eTravels-Bus-Booking/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shrish-sharma-git/eTravels-Bus-Booking.svg?style=for-the-badge
-[issues-url]: https://github.com/shrish-sharma-git/eTravels-Bus-Booking/issues
-[license-shield]: https://img.shields.io/github/license/shrish-sharma-git/eTravels-Bus-Booking.svg?style=for-the-badge
-[license-url]: https://github.com/shrish-sharma-git/eTravels-Bus-Booking/blob/main/LICENSE
